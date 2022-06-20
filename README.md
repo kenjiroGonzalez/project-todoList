@@ -1,5 +1,5 @@
-# webpack-configuracion-estandar
-Fin de la sección 8
+# Project todoList con webpack-configuracion-estandar
+Fin de la sección 10
 
 
 ## Nota
